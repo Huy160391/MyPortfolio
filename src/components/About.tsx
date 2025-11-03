@@ -2,6 +2,7 @@ import { motion } from 'motion/react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { CheckCircle2 } from 'lucide-react';
 
+
 export function About() {
   return (
     <section id="about" className="py-24 bg-white dark:bg-gray-900">
@@ -106,7 +107,7 @@ export function About() {
               <div className="absolute inset-0 bg-[#00A86B] rounded-3xl transform rotate-6"></div>
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                 <ImageWithFallback
-                  src="src\img\AVT3.jpeg"
+                  src="img\AVT3.jpeg"
                   alt="Professional developer at work"
                   className="w-full h-[600px] object-cover"
                 />

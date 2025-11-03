@@ -49,7 +49,7 @@ export function Hero({ onViewProjects }: HeroProps) {
               <div className="w-full h-full rounded-full bg-white dark:bg-gray-800 flex items-center justify-center overflow-hidden">
                 <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 dark:from-gray-700 dark:to-gray-600 flex items-center justify-center">
                   <img
-                    src="src\img\AVT2.jpg"
+                    src="img\AVT2.jpg"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
