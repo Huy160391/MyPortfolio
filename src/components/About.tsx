@@ -77,7 +77,7 @@ export function About() {
                 <div className="space-y-4">
                   <div>
                     <h4 className="text-black dark:text-white mb-1">QA Engineer - CMC Global</h4>
-                    <p className="text-gray-600 dark:text-gray-400">Nov 2024 - Present</p>
+                    <p className="text-gray-600 dark:text-gray-400">Nov 2024 - May 2025</p>
                     <p className="text-gray-600 dark:text-gray-400 mt-2">
                       Working on automation testing for C-Ticket System and HRMS using Cypress and Selenium,
                       integrated with CI/CD pipelines to ensure quality across multiple modules.
